@@ -1,0 +1,7 @@
+dist
+examples
+node_modules
+.eslintignore
+.prettierignore
+.env.d.ts
+*.json
